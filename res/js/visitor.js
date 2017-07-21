@@ -1,7 +1,7 @@
 /*!
-* @Author: wanghu www.billwang.xyz
-* @Email:  371570273@qq.com
-* @Date:   2015-07-27 11:00:27
+* @Author: 
+* @Email:  
+* @Date:  
 */
 
 var caution = false
